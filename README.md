@@ -1,4 +1,4 @@
-# Next Genereation Forms with 🏁 React Final Form
+# Next Genereation Forms with [🏁 React Final Form](https://github.com/final-form/react-final-form#-react-final-form)
 
 Project from live demo of Erik Rasmussen's React Alicante talk on September 14, 2018.
 
